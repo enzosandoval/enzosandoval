@@ -1,16 +1,14 @@
-### Hi there 👋
+### About  
 
-<!--
-**enzosandoval/enzosandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Argentinian <strike>J-pop enthusiast</strike> who likes programming, web development and robotics.  
+C/C++ is my mother tongue, Spanish is my second tounge 😎  
+I love programming, I could spend hours and hours programming until I pass out.
 
-Here are some ideas to get you started:
+</br>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/enzosandoval" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzosandoval&langs_count=8&layout=compact" />
+</a>  
+
+### Contact
+- Website: [https://enzosandoval.github.io](https://enzosandoval.github.io/)
+- Email: enzosandoval@hotmail.com
